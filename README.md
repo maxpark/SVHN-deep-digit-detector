@@ -24,6 +24,7 @@ I recommend that you create and use an anaconda env that is independent of your 
 * Run the project in this env
 
 
+
 ## Usage
 
 The procedure to build digit detector is as follows:
